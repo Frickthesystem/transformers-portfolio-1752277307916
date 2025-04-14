@@ -1,2 +1,15 @@
-# transformers-portfolio-1752277307916
-My implementation of huggingface/transformers - My implementation of huggingface/transformers - Industry-standard library for state-of-the-art NLP models
+# Project
+
+A project built with PyTorch, TensorFlow, JAX, tokenizers
+
+## Installation
+
+```bash
+npm install
+```
+
+## Usage
+
+```bash
+npm start
+```
